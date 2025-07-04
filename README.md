@@ -19,10 +19,7 @@ Shipping items are processed separately with their total weight.
 ## How to Run
 
 - Clone the repository:
-
-```bash
-git clone https://github.com/emandeyab/Fawry-Task-Ecommerce.git
-
+`git clone https://github.com/emandeyab/Fawry-Task-Ecommerce.git`
 - Open the project in IntelliJ or any Java IDE.
 - Run the `Main.java` file.
 - The output will show different test cases in the console.
